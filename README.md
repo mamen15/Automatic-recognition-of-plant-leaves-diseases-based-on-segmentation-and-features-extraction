@@ -1,0 +1,1 @@
+# Automatic-recognition-of-plant-leaves-diseases-based-on-segmentation-and-features-extraction
